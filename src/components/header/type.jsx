@@ -7,12 +7,13 @@ const Type = () => {
       options={{
         strings: [
           "Developer",
-          "MERN Stack Developer",
+        "Fronted Developer",
           "Cricket Enthusiast",
+          "Learning Backend",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 100,
       }}
     />
   )

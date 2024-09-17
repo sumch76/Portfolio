@@ -34,7 +34,7 @@ const About = () => {
           </div>
           <p>
           I am looking for a Job to build my carrer in software industry. I am a student of Information Technology and a keen learner to the subject. 
-          I have hands on experience in Cascading Style Sheets:CSS, C/C++ Programming Language, JavaScript,Tailwind CSS,React JS 
+          I have hands on experience in Cascading Style Sheets:CSS, C/C++ Programming Language, JavaScript,Tailwind CSS,React JS and Redux Toolkit
           Also know basics of database and server handling.
           And I will give my best performance wherever I will endeavour.
           </p>

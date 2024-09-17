@@ -4,6 +4,9 @@ import IMG1 from '../../assets/project1.png';
 import IMG2 from '../../assets/project2.png';
 import IMG3 from '../../assets/project3.png';
 import IMG4 from '../../assets/project4.png'; // Import the new image
+import IMG5 from '../../assets/project5.png'; // Import the new image
+import IMG6 from '../../assets/project6.png';
+import IMG7 from '../../assets/project7.png';
 
 const projects = [
   {
@@ -34,6 +37,28 @@ const projects = [
     github: 'https://github.com/sumch76/razorpayy',
     demo: 'https://sumitrazorpayclone.netlify.app/'
   },
+  {
+    id:5,
+    image: IMG5,
+    title: 'Bhojan-Bliss A Food App',
+    github: 'https://github.com/sumch76/A-Food-App-BhojanBliss',
+    demo: 'https://a-food-app-bhojan-bliss.vercel.app/'
+  },
+  {
+  id:6,
+  image:IMG6,
+  title:'Training-Schedule-Management',
+  github:'https://github.com/sumch76/training-schedule-management/tree/main/Project_Files',
+  demo:'https://github.com/sumch76/training-schedule-management/tree/main/Project_Files'
+  },
+  {
+  id:7,
+  image:IMG7,
+  title:'Personal Portfolio',
+  github:'https://github.com/sumch76/Portfolio',
+  demo:'https://portfolio-eight-delta-73.vercel.app/'
+  },
+
 ];
 
 const RecentWork = () => {
