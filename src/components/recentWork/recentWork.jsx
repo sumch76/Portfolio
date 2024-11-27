@@ -7,6 +7,7 @@ import IMG4 from '../../assets/project4.png'; // Import the new image
 import IMG5 from '../../assets/project5.png'; // Import the new image
 import IMG6 from '../../assets/project6.png';
 import IMG7 from '../../assets/project7.png';
+import IMG8 from '../../assets/project9.png';
 
 const projects = [
   {
@@ -46,13 +47,20 @@ const projects = [
   },
   {
   id:6,
+  image:IMG8,
+  title:'Dev-Compiler',
+  github:'https://github.com/sumch76/Dev-Compiler',
+  demo:'hhttps://dev-compiler.vercel.app/'
+  },
+  {
+  id:7,
   image:IMG6,
   title:'Training-Schedule-Management',
   github:'https://github.com/sumch76/training-schedule-management/tree/main/Project_Files',
   demo:'https://github.com/sumch76/training-schedule-management/tree/main/Project_Files'
   },
   {
-  id:7,
+  id:8,
   image:IMG7,
   title:'Personal Portfolio',
   github:'https://github.com/sumch76/Portfolio',
