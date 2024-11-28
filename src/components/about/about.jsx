@@ -33,10 +33,13 @@ const About = () => {
             </article>
           </div>
           <p>
-          I am looking for a Job to build my carrer in software industry. I am a student of Information Technology and a keen learner to the subject. 
-          I have hands on experience in Cascading Style Sheets:CSS, C/C++ Programming Language, JavaScript,Tailwind CSS,React JS and Redux Toolkit
-          Also know basics of database and server handling.
-          And I will give my best performance wherever I will endeavour.
+          A passionate self-taught full-stack developer with expertise in React.js, Node.js, and MongoDB, 
+          I thrive on building innovative, user-centric applications. With a proven track record of delivering impactful projects like Bhojan-Bliss, MoWeb, and DevCompiler,
+           I combine technical proficiency with a commitment to continuous learning. 
+           I aim to contribute to cutting-edge solutions while growing professionally. 
+           Ready to bring dedication, creativity, and problem-solving skills to your team.
+
+
           </p>
 
           <a href='#contact' className='btn btn-primary'>Contact Me</a>
